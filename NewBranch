@@ -1,0 +1,5 @@
+Criar um novo Branch:
+Usar:
+	git checkout -b NomeBranch  //cria e muda para o branch NomeBranch
+	git Branch 					//Lista os branch e o actual
+	git checkout NomeBranch		//muda de branch para NomeBranch
