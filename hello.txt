@@ -1,1 +1,2 @@
 Hello Git
+for a new commit
